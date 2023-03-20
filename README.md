@@ -1,5 +1,10 @@
 # Memory Test code
 
+Before running this code make sure you follow these steps: 
+- Clone this repository
+- cd ./MemoryTest
+- npm install native-base @react-navigation/native react-native-select-dropdown react-native @react-navigation/native-stack
+- npx expo start
 
 ## Video showing the application in use
 
